@@ -6,7 +6,7 @@
 
 - 📚 Student System Analysis and Development.
 
-- 🧑‍💼 I’m currently working at J. G. Baião Informática – Consultoria e Comécio LTDA.
+- 🧑‍💼 I’m currently working at Grupo Petrópolis.
 
 - 🌎 I live in Petrópolis, RJ.
 
